@@ -4,6 +4,8 @@
 [About](#about)  
 [Dev stack](#dev-stack)  
 [Why the pants?](#why-the-pants)  
+
+Technical documentation can be found in the [UAMediaProd Docs Wiki](https://github.com/UAMediaProd/Docs/wiki). Go there to learn more about our processes, plans, and technical guides.
   
 ## About
 The Media Production team at The University of Adelaide is located within the Online Programs Team (OPT) and acts as a central service inside the University. As the team has evolved from AdelaideX to Online Programs, so too has the desire to formalise an Open Source environment to work from and allow for future growth into adopting a [Serverless](https://serverless.css-tricks.com/) philosophy to allow design and development teams to focus on making content and using tools with GitHub. 
